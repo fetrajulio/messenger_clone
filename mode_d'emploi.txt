@@ -1,0 +1,9 @@
+Mode d'emploi:
+
+1-importer le base de donné="mess.SQL" dans le base de donne local
+
+2-importer le messenger dans "C:\wamp64\www"
+
+3-importer le myapp dans le "C:\wamp64\www\messenger"
+
+4-executer le lien suivant="http://localhost/messenger/"
