@@ -6,4 +6,5 @@ Mode d'emploi:
 
 3-importer le myapp dans le "C:\wamp64\www\messenger"
 
-4-executer le lien suivant="http://localhost/messenger/"
+4-lancer wampserver ou xamp
+5-executer le lien suivant="http://localhost/messenger/"
