@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
+import {APIHost as host} from './app.json';
 
 ReactDOM.render(
     <div className="card bg-light mb-3">

@@ -1,4 +1,5 @@
 import ReactDOM from 'react-dom';
+import {APIHost as host} from './app.json';
 ReactDOM.render(
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">

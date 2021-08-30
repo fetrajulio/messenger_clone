@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import {APIHost as host} from './app.json';
 
 ReactDOM.render(
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
